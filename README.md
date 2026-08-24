@@ -2,6 +2,7 @@
 
 A simple library to display numbers, text and animation on 4 and 6 digit 7-segment TM1637 based display modules. Connect the TM1637 display CLK and DIO pins to your Arduino GPIO pins, include this library, initialize TM1637TinyDisplay and call easy to use functions like showNumber(), showString(), showLevel() and showAnimation(). Display will scroll text for larger strings. Functions support screen splitting for easy number + text formatting. Runs well on tiny controllers including the ATtiny85. Original author: Jason Cox <jason@jasonacox.com>. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.4.4. Upstream: <https://github.com/jasonacox/TM1637TinyDisplay>.
 
+**Source last updated:** 2022-02-22  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
