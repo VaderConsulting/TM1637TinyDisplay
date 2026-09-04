@@ -23,6 +23,10 @@ A simple library to display numbers, text and animation on 4 and 6 digit 7-segme
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/TM1637TinyDisplay`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Jason Cox <jason@jasonacox.com>
